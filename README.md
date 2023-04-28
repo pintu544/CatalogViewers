@@ -1,5 +1,6 @@
 <h1 id="catalog-viewer">Catalog Viewer</h1>
- <a href="https://catalogviewers.netlify.app/">catalogviewers</a> 
+<h2>Hosted Url<a href="https://catalogviewers.netlify.app/">catalogviewers</a> </h2>
+ 
 <p>This is a React app that displays a collection of images in a carousel format. The user can navigate between images using previous and next buttons or by clicking on a thumbnail image. There is also a play/pause button that starts or stops the automatic display of images in the carousel.</p>
 <h2 id="technologies-used">Technologies Used</h2>
 <ul>
